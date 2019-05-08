@@ -304,7 +304,7 @@ class Landing extends React.Component {
                         Address: {el.address}, {el.city} {el.state}, {el.postal_code}
                       </Typography>
                       <Typography inline={false}  style={{ paddingLeft: "1em" }}>
-                        Price: {el.price}/5
+                        Price: {el.price}/4
                       </Typography>
                       </div>  
                   </ExpansionPanel>
